@@ -51,11 +51,9 @@ if (entrance == "Админ") {
     alert("Я Вас не знаю");
 }*/
 
-/*
 var login;
 var message;
 
 login == 'Вася'? message = 'Привет':
 login == 'Директор'? message = 'Здравствуйте':
 login == ''? message = 'Нет логина': message = ''
-*/
